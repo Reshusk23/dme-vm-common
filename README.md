@@ -7,5 +7,5 @@
 [![](https://img.shields.io/badge/made%20by-Reshusk%20Network-blue.svg?style=flat-square)](http://reshusk23.com/)
 [![](https://img.shields.io/badge/project-Reshusk%20Network%20Testnet-blue.svg?style=flat-square)](http://reshusk23.com/)
 
-# dme-vm-commonn
+# dme-vm-common
 Common structs between VM and node
